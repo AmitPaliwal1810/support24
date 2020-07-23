@@ -34,7 +34,7 @@ hr{
 
 /* media condition */
 
-@media (max-width:580px){
+@media (max-width:800px){
 
     #title{
         text-align: center;
@@ -357,7 +357,7 @@ hr{
 
 }
  
-@media(max-width:580px){
+@media(max-width:800px){
 
     .btn-course{
 
@@ -420,7 +420,7 @@ hr{
     margin-bottom: 100px;
 }
 
-@media(max-width:580px){
+@media(max-width:800px){
 
     .termspara{
 
